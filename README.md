@@ -1,4 +1,4 @@
-# k_means_demo
+# K Means Clustering Animated Demo
 
 ## Introduction:
 
