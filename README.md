@@ -13,4 +13,4 @@ Once you run the Streamlit app, you will see a sidebar with options to select th
 - **app.py**: This is the main Python script containing the Streamlit app code.
 - **requirements.txt**: Contains the list of Python libraries required to run the project.
 
-https://kmeansdemo-msyhzspgflurbpuuypk5bf.streamlit.app/
+**Link to the App** - https://kmeansdemo-msyhzspgflurbpuuypk5bf.streamlit.app/
